@@ -1,13 +1,13 @@
 {
-  "name": "soap",
-  "version": "0.9.1",
-  "description": "A minimal node SOAP client",
+  "name": "artisanal-soap",
+  "version": "1.0.0",
+  "description": "A hack of node-soap",
   "engines": {
     "node": ">=0.8.0"
   },
   "author": {
-    "name": "Vinay Pulim",
-    "email": "v@pulim.com"
+    "name": "Zach Koch",
+    "email": "ezekeal@gmail.com"
   },
   "dependencies": {
     "lodash": "~2.4.1",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/milewise/node-soap.git"
+    "url": "https://github.com/ezekeal/artisanal-soap"
   },
   "main": "./index.js",
   "directories": {
@@ -40,38 +40,14 @@
     "timekeeper": "~0.0.4"
   },
   "bugs": {
-    "url": "https://github.com/milewise/node-soap/issues"
+    "url": "https://github.com/ezekeal/artisanal-soap/issues"
   },
-  "homepage": "https://github.com/milewise/node-soap",
-  "_id": "soap@0.9.1",
-  "_shasum": "5418147762a2798761ccdf5caa37498de8350016",
-  "_from": "soap@",
-  "_npmVersion": "1.4.9",
-  "_npmUser": {
-    "name": "herom",
-    "email": "h.romirer@gmail.com"
-  },
+  "homepage": "https://github.com/ezekeal/artisanal-soap",
   "maintainers": [
     {
-      "name": "vpulim",
-      "email": "v@pulim.com"
-    },
-    {
-      "name": "aaron",
-      "email": "aaron.heckmann+github@gmail.com"
-    },
-    {
-      "name": "jsdevel",
-      "email": "js.developer.undefined@gmail.com"
-    },
-    {
-      "name": "herom",
-      "email": "h.romirer@gmail.com"
+      "name": "ezekeal",
+      "email": "ezekeal@gmail.com"
     }
+   }
   ],
-  "dist": {
-    "shasum": "5418147762a2798761ccdf5caa37498de8350016",
-    "tarball": "http://registry.npmjs.org/soap/-/soap-0.9.1.tgz"
-  },
-  "_resolved": "https://registry.npmjs.org/soap/-/soap-0.9.1.tgz"
 }
